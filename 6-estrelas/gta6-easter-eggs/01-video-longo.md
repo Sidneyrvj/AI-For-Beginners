@@ -2,7 +2,8 @@
 ## "10 Easter Eggs do GTA 6 que são MISSÕES SECRETAS completas"
 
 > Pacote de produção: análise, roteiro de locução, direção visual, decupagem, sound design, revisão de retenção, título, descrição e thumbnail.
-> **Todos os tempos são estimativas** (baseados em ~155 palavras/minuto de locução). Ajuste depois de gravar a voz.
+> **Atualização:** a voz já foi gravada e limpa (`audio/longo_voz_limpa.wav`, 8:00,9). Os tempos **reais** por bloco estão em `04-tempos-reais-longo.md` e **substituem os tempos estimados da §5**. O vídeo final fica com ~8 min, e não ~10:40.
+> Os tempos abaixo (§5) são as estimativas originais (~155 palavras/minuto), mantidas só como referência de proporção dentro de cada bloco.
 > Fatos vêm das transcrições dos 4 vídeos de referência (comunidade, primeiras horas pós-lançamento). Nada foi testado por mim no jogo.
 
 ---
